@@ -1,4 +1,4 @@
-;;; djinni-mode.el -- Editing djinni idl files.
+;;; djinni-mode.el --- Editing djinni idl files.
 
 ;; Author: Damien Merenne
 ;; URL: https://github.com/canatella/djinni-mode-el
